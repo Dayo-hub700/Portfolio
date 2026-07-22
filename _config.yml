@@ -1,0 +1,17 @@
+# Website Settings
+title: Grace Baro
+description: Data Science & Research Portfolio
+author: Grace Baro
+
+# Theme Selection
+theme: jekyll-theme-minimal
+
+# Social & Navigation Links (shown on supported themes)
+github_username: Dayo-hub700
+linkedin_username: Grace Baro
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
