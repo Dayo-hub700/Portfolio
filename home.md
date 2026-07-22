@@ -31,6 +31,10 @@ Here are some of the projects featured in this portfolio:
 - **SQL Analysis** – Solving business and analytical problems using SQL queries.
 - **Machine Learning Projects** *(Coming Soon)* – Applying predictive models to answer practical questions.
 
+**Links**
+- 📖 [Project Breakdown](./projects.md)
+- 💻 [GitHub Repository](https://github.com/Dayo-hub700/Data-Science)
+
 ---
 
 ## Latest Articles
@@ -45,5 +49,16 @@ I also write about psychology, neuroscience, curiosity, and personal growth.
 📖 Read more on **Solace Haven**: <https://solacehaven.substack.com>
 
 ---
+
+## 📫 Let's Connect
+
+I'm always excited to connect with people interested in **data science**, **psychology**, **research**, and thoughtful writing. Whether it's discussing an analysis, collaborating on a project, or exchanging ideas about human behaviour, I'd love to hear from you.
+
+- 🌐 **GitHub:** https://github.com/Dayo-hub700
+- 📝 **Solace Haven:** https://solacehaven.substack.com
+
+---
+
+> *"Data reveals patterns. Stories reveal meaning. I enjoy exploring both."*
 
 *Thanks for visiting! Feel free to explore my projects and writing as I continue learning, building, and sharing my journey into data science and human behaviour.*
