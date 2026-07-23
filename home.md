@@ -103,6 +103,44 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 <hr>
 
+<h2>🌱 Current Focus</h2>
+
+<div class="focus-grid">
+
+<div class="focus-card">
+
+<h3>📊 Data Science</h3>
+
+<p>
+Building practical data science projects with Python, SQL, Plotly, and exploratory data analysis while strengthening my statistical thinking.
+</p>
+
+</div>
+
+<div class="focus-card">
+
+<h3>🧠 Psychology & Neuroscience</h3>
+
+<p>
+Long before I knew what data science was, I loved people-watching. I was fascinated by the subtle patterns in human behaviour, constantly wondering why people think, feel, and act the way they do. That curiosity naturally grew into an interest in <strong>psychology</strong> and <strong>neuroscience</strong>, where I discovered that understanding the brain is just as captivating as understanding data.
+</p>
+
+</div>
+
+<div class="focus-card">
+
+<h3>✍️ Writing</h3>
+
+<p>
+Outside of programming, I enjoy journaling. What started as a way to preserve moments gradually became a passion for writing, allowing me to explore ideas about the mind, personal growth, and the human experience.
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
 <h2>Featured Project</h2>
 
 <div class="projects-grid">
