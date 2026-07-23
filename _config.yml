@@ -3,15 +3,34 @@ title: Grace Baro
 description: Data Science & Research Portfolio
 author: Grace Baro
 
-# Theme Selection
-theme: jekyll-theme-minimal
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Social & Navigation Links (shown on supported themes)
+# Social Links
 github_username: Dayo-hub700
-linkedin_username: Grace Baro
+linkedin_username: Grace Baro   # Replace with your actual LinkedIn username
 
 # Build Settings
 markdown: kramdown
+
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"
+
+# Site Settings
+locale: "en-US"
+timezone: "Africa/Lagos"
+
+name: "Grace Baro"
+search: true
+breadcrumbs: true
+
+permalink: /:categories/:title/
+
+repository: Dayo-hub700/Portfolio
