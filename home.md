@@ -50,7 +50,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 <div>
 
-## Where Curiosity Meets Analysis
+<h2>Where Curiosity Meets Analysis</h2>
 
 I've always been fascinated by **patterns**.
 
@@ -62,7 +62,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 <div>
 
-### Core Strengths
+<h3>Core Strengths</h3>
 
 <div class="skill-card">📊 Exploratory Data Analysis</div>
 
@@ -81,7 +81,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 </div>
 ---
 
-## By The Numbers
+<h2>By The Numbers</h2>
 
 <div class="stats-grid">
 
@@ -113,7 +113,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 ---
 
-## Featured Project
+<h2>Featured Project</h2>
 
 <div class="projects-grid">
 
