@@ -85,3 +85,52 @@ hr {
   border: none;
   border-top: 2px solid #F3E2F3;
 }
+
+/* ===========================
+   HERO SECTION
+=========================== */
+
+.page__hero-title {
+    font-size: 4rem;
+}
+
+.page__content h1:first-child{
+    font-size:4rem;
+    font-weight:800;
+    margin-bottom:10px;
+}
+
+.page__content h2:first-of-type{
+    font-size:1.6rem;
+    color:#666;
+    margin-top:0;
+    border:none;
+    padding:0;
+}
+
+.page__content{
+
+    max-width:900px;
+
+    margin:auto;
+
+}
+
+.hero-buttons{
+
+    margin:35px 0;
+
+}
+
+.hero-buttons .btn{
+
+    margin-right:15px;
+
+    border-radius:40px;
+
+    padding:12px 28px;
+
+    font-weight:600;
+
+}
+
