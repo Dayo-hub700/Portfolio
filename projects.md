@@ -68,7 +68,7 @@ This interactive scatter plot explores how production budgets relate to revenue 
 - Cast popularity had little influence on audience ratings.
 - Financial success does not always translate into better reviews.
 
-🔗 [View Full Project](Marvel)
+🔗 [View Full Project](Marvel media/marvel.ipynb)
 
 💻 [GitHub Repository](https://github.com/Dayo-hub700/Data-Science)
 
