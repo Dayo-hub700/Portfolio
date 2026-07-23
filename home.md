@@ -181,7 +181,7 @@ Thoughts on psychology, neuroscience, emotional resilience, and the stories we t
 </p>
 
 <p>
-<a href="articles.md">Read Articles →</a>
+<a href="/Portfolio/articles/">Read Articles →</a>
 </p>
 
 <hr>
