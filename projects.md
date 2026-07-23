@@ -35,7 +35,7 @@ Python • Pandas • Matplotlib • Seaborn
 
 ### Budget vs Revenue
 
-![Budget vs Revenue](../assets/image/image-1.png)
+![Budget vs Revenue](assets/image/image-1.png)
 
 ### Correlation Heatmap
 
