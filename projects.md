@@ -33,13 +33,33 @@ Python • Pandas • Matplotlib • Seaborn
 
 ## Visualizations
 
-### Budget vs Revenue
+## Correlation Heatmap
 
-![Budget vs Revenue](assets/image/image-1.png)
+This interactive heatmap shows the relationship between production budget, box office revenue, and TMDB ratings across Marvel projects.
 
-### Correlation Heatmap
+<iframe
+    src="{{ '/assets/interactive/correlation_heatmap.html' | relative_url }}"
+    width="100%"
+    height="650"
+    frameborder="0">
+</iframe>
 
-![Correlation Heatmap](assets/image/image-4.png)
+**Key Insight:** Budget has a strong positive relationship with box office performance, while TMDB ratings show a much weaker relationship with financial metrics.
+
+---
+
+## Budget vs Revenue
+
+This interactive scatter plot explores how production budgets relate to revenue across different Marvel cinematic universes.
+
+<iframe
+    src="{{ '/assets/interactive/budget_vs_revenue.html' | relative_url }}"
+    width="100%"
+    height="650"
+    frameborder="0">
+</iframe>
+
+**Key Insight:** MCU productions generally occupy the upper-right region of the chart, reflecting both higher budgets and higher revenues.
 
 ### Key Findings
 
@@ -48,7 +68,7 @@ Python • Pandas • Matplotlib • Seaborn
 - Cast popularity had little influence on audience ratings.
 - Financial success does not always translate into better reviews.
 
-🔗 [View Full Project](./marvel-analysis/)
+🔗 [View Full Project](Marvel)
 
 💻 [GitHub Repository](https://github.com/Dayo-hub700/Data-Science)
 
