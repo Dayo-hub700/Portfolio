@@ -49,7 +49,7 @@ https://solacehaven.substack.com
 ## Portfolio
 
 Visit my portfolio:
-**(Add your GitHub Pages URL here once it's live)**
+**([Portfolio](https://dayo-hub700.github.io/grace-baro.github.io/))**
 
 ## Contact
 
