@@ -39,7 +39,7 @@ Python • Pandas • Matplotlib • Seaborn
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](../assets/image/image-4.png)
+![Correlation Heatmap](assets/image/image-4.png)
 
 ### Key Findings
 
