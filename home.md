@@ -122,7 +122,7 @@ Building practical data science projects with Python, SQL, Plotly, and explorato
 <h3>🧠 Psychology & Neuroscience</h3>
 
 <p>
-Long before I knew what data science was, I loved people-watching. I was fascinated by the subtle patterns in human behaviour, constantly wondering why people think, feel, and act the way they do. That curiosity naturally grew into an interest in <strong>psychology</strong> and <strong>neuroscience</strong>, where I discovered that understanding the brain is just as captivating as understanding data.
+  Exploring human behaviour, cognition, emotional resilience, and the neuroscience behind how people think, learn, and make decisions.
 </p>
 
 </div>
@@ -132,7 +132,7 @@ Long before I knew what data science was, I loved people-watching. I was fascina
 <h3>✍️ Writing</h3>
 
 <p>
-Outside of programming, I enjoy journaling. What started as a way to preserve moments gradually became a passion for writing, allowing me to explore ideas about the mind, personal growth, and the human experience.
+Publishing essays through Haven Letters that connect psychology, neuroscience, and personal growth with thoughtful storytelling.
 </p>
 
 </div>
