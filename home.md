@@ -95,7 +95,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 <div class="stat">
 
-<h2>5+</h2>
+<h2>30+</h2>
 
 <p>Published Essays</p>
 
