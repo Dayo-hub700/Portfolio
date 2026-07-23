@@ -172,18 +172,94 @@ View Case Study →
 
 <hr>
 
-<h2>Latest Writing</h2>
+<h2>🚧 Currently Building</h2>
 
-<h3>🧠 Haven Letters</h3>
+<div class="dashboard-card">
 
-<p>
-Thoughts on psychology, neuroscience, emotional resilience, and the stories we tell ourselves.
-</p>
+<h3>🎬 The Marvel Multiverse</h3>
 
 <p>
-<a href="/Portfolio/articles/">Read Articles →</a>
+Building an interactive case study exploring the factors that influence the commercial and critical success of Marvel productions.
 </p>
 
+<div class="progress-bar">
+
+<div class="progress-fill" style="width:85%;"></div>
+
+</div>
+
+<p><strong>Progress:</strong> 85%</p>
+
+</div>
+
+<h2>📚 Currently Learning</h2>
+
+<div class="learning-grid">
+
+<div class="learning-card">
+
+✔ Plotly Dash
+
+</div>
+
+<div class="learning-card">
+
+✔ SQL Optimization
+
+</div>
+
+<div class="learning-card">
+
+✔ Machine Learning
+
+</div>
+
+<div class="learning-card">
+
+✔ Statistical Thinking
+
+</div>
+
+</div>
+
+<h2>🧠 Current Interests</h2>
+
+<div class="interest-grid">
+
+<span>Behavioural Psychology</span>
+
+<span>Neuroscience</span>
+
+<span>Data Storytelling</span>
+
+<span>Machine Learning</span>
+
+<span>Research Methods</span>
+
+<span>Human Decision Making</span>
+
+</div>
+
+<hr>
+<h2>✍ Latest Publication</h2>
+
+<div class="dashboard-card">
+
+<h3>Haven Letters</h3>
+
+<p>
+
+Exploring psychology, neuroscience and emotional resilience through thoughtful essays.
+
+</p>
+
+<a href="/Portfolio/articles/" class="btn btn--primary">
+
+Read Latest →
+
+</a>
+
+</div>
 <hr>
 
 <h2>My Toolbox</h2>
