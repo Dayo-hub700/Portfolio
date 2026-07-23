@@ -1,3 +1,10 @@
+---
+layout: single
+title: Home
+author_profile: true
+---
+
+
 # Grace Baro
 
 Aspiring **Data Scientist** with a growing interest in using data to understand human behaviour and solve meaningful problems. I enjoy uncovering patterns through analysis and communicating insights through clear, engaging writing.
