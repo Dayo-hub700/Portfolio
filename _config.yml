@@ -4,11 +4,10 @@ description: Data Science & Research Portfolio
 author: Grace Baro
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 # Social Links
 github_username: Dayo-hub700
-linkedin_username: Grace Baro   # Replace with your actual LinkedIn username
 
 # Build Settings
 markdown: kramdown
@@ -17,17 +16,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
-source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
-gem "jekyll-include-cache"
 
 # Site Settings
-locale: "en-US"
-timezone: "Africa/Lagos"
+locale: en-US
+timezone: Africa/Lagos
 
-name: "Grace Baro"
+name: Grace Baro
 search: true
 breadcrumbs: true
 
