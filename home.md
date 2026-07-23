@@ -27,7 +27,7 @@ As a Computer Science student with a growing interest in **psychology** and **ne
 
 <div class="quote-card">
 
-*"Every dataset tells a story. My goal is to uncover it—and communicate it clearly."*
+*"Curiosity is what led me to data science. Empathy is what led me to psychology. Writing became the bridge between them."*
 
 </div>
 
