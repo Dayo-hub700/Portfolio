@@ -61,9 +61,4 @@ I'm especially interested in projects where data can help explain human behaviou
 
 ---
 
-## Let's Connect
-
-Whether you'd like to discuss data science, research, psychology, or writing, I'd love to connect.
-
-- **GitHub:** https://github.com/Dayo-hub700
-- **Haven Letters:** https://solacehaven.substack.com
+> *"Curiosity led me to data science. Empathy led me to psychology. Writing became the bridge between them. I'm still following that curiosity every day."*
