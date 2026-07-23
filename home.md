@@ -3,30 +3,34 @@ layout: splash
 title: Grace Baro
 author_profile: false
 permalink: /
+classes: wide
 ---
 
 # Hi, I'm Grace Baro 👋
 
-### **Data Scientist • Writer • Curious Observer of Human Behaviour**
+## Data Scientist • Writer • Curious Observer
 
-I use **data science** to uncover patterns and **writing** to make those patterns meaningful.
+I enjoy uncovering patterns hidden in data and communicating those insights through thoughtful storytelling.
 
-Whether I'm exploring Marvel movies through exploratory data analysis or reflecting on psychology and neuroscience through essays, I'm driven by one question:
+As a Computer Science student with a growing interest in **psychology** and **neuroscience**, I'm fascinated by one question:
 
-> *Why do things—and people—behave the way they do?*
+> **Why do people—and the world around them—behave the way they do?**
 
-<br>
+<div class="hero-buttons">
 
-[📊 Explore My Projects](/Portfolio/projects/){: .btn .btn--primary}
-[✍️ Read My Articles](/Portfolio/articles/){: .btn .btn--inverse}
+<a href="/Portfolio/projects/" class="btn btn--primary">📊 Explore Projects</a>
+
+<a href="/Portfolio/articles/" class="btn btn--inverse">✍️ Read Articles</a>
+
+</div>
 
 ---
 
-## Featured Work
+## Featured Project
 
 ### 🎬 The Marvel Multiverse
 
-A data-driven exploration of how production budgets, audience ratings, and cinematic universes influence Marvel's financial success.
+A data-driven exploration into the relationship between production budgets, audience ratings, cast popularity, and financial success across Marvel productions.
 
 ➡️ **Python • Pandas • Plotly • Seaborn**
 
@@ -38,7 +42,7 @@ A data-driven exploration of how production budgets, audience ratings, and cinem
 
 ### 🧠 Haven Letters
 
-Reflections on psychology, neuroscience, emotional well-being, and the human experience.
+Thoughts on psychology, neuroscience, emotional resilience, and the stories we tell ourselves.
 
 [Read Articles →](/Portfolio/articles/)
 
@@ -46,13 +50,4 @@ Reflections on psychology, neuroscience, emotional well-being, and the human exp
 
 ## Technical Toolkit
 
-- 🐍 Python
-- 📊 Pandas
-- 📈 Plotly
-- 📉 Matplotlib
-- 🎨 Seaborn
-- 🗄 SQL
-
----
-
-> *"Every dataset tells a story. My job is to find it—and tell it clearly."*
+🐍 Python • 📊 Pandas • 📈 Plotly • 📉 Matplotlib • 🎨 Seaborn • 🗄 SQL
