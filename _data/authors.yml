@@ -1,13 +1,17 @@
 Grace:
   name: Grace Baro
-  avatar: "assets/image/profile.jpeg"
-  bio: "Aspiring Data Scientist | Writer | Psychology & Neuroscience Enthusiast"
+  avatar: "/assets/image/profile.jpeg"
+  bio: >
+    Data Scientist passionate about psychology,
+    neuroscience, and storytelling through data.
+
+  location: Nigeria
 
   links:
     - label: GitHub
       icon: fab fa-github
-      url: "https://github.com/Dayo-hub700"
+      url: https://github.com/Dayo-hub700
 
-    - label: Solace Haven
+    - label: Haven Letters
       icon: fas fa-book
-      url: "https://solacehaven.substack.com"
+      url: https://solacehaven.substack.com
