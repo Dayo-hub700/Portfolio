@@ -195,30 +195,36 @@ Publishing essays through Haven Letters that connect psychology, neuroscience, a
 
 <div class="project-card">
 
+<img
+src="/Portfolio/assets/images/marvel-cover.png"
+alt="Marvel Multiverse Project"
+class="project-image">
+
 <h3>🎬 The Marvel Multiverse</h3>
 
 <p>
-A data-driven exploration of Marvel's cinematic success using exploratory data analysis, interactive visualisations, and statistical insights.
+A data-driven exploration of Marvel's cinematic success using interactive visualisations and exploratory data analysis.
 </p>
 
 <div class="tech-stack">
 
 <span>Python</span>
+
 <span>Pandas</span>
+
 <span>Plotly</span>
+
 <span>Seaborn</span>
 
 </div>
 
 <a href="/Portfolio/projects/" class="btn btn--primary">
+
 View Case Study →
+
 </a>
 
 </div>
-
-</div>
-
-<hr>
 
 <h2>🚧 Currently Building</h2>
 
