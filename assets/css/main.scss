@@ -690,6 +690,27 @@ margin-bottom:40px;
 }
 
 }
+.project-image{
+
+width:100%;
+
+height:220px;
+
+object-fit:cover;
+
+border-radius:15px;
+
+margin-bottom:20px;
+
+transition:.35s;
+
+}
+
+.project-card:hover .project-image{
+
+transform:scale(1.03);
+
+}
 
 /* ===========================
    TEXT SELECTION
