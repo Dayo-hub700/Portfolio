@@ -196,7 +196,7 @@ Publishing essays through Haven Letters that connect psychology, neuroscience, a
 <div class="project-card">
 
 <img
-src="/Portfolio/assets/image/marvel_media.jpg"
+src="/Portfolio/assets/image/marvel-media.jpg"
 alt="Marvel Multiverse Project"
 class="project-image">
 
