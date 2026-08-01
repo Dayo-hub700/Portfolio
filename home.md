@@ -5,10 +5,58 @@ author_profile: false
 permalink: /
 classes: wide
 ---
+<div class="hero-grid">
 
-# Hi, I'm Grace Baro 👋
+<div>
 
-## Data Scientist • Writer • Curious Observer
+<h1>Grace Baro</h1>
+
+<h2>
+Turning curiosity into insight through
+data, psychology and writing.
+</h2>
+
+<p>
+
+I'm a Computer Science student passionate about uncovering patterns in data and communicating them through thoughtful storytelling.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="/Portfolio/projects/" class="btn btn--primary">
+
+Explore Projects
+
+</a>
+
+<a href="/Portfolio/articles/" class="btn btn--inverse">
+
+Read Articles
+
+</a>
+
+</div>
+
+</div>
+
+<div class="hero-image">
+
+<img src="/Portfolio/assets/image/profile.jpeg" alt="Grace Baro">
+
+</div>
+
+</div>
+
+<div class="quote-card">
+
+I began by observing people.
+Today I observe data.
+In both, I'm searching for patterns that help explain the world.
+
+</div>
+
+<hr>
 
 <p>
 I enjoy uncovering patterns hidden in data and communicating those insights through thoughtful storytelling.
