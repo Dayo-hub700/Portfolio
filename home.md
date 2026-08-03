@@ -227,7 +227,7 @@ View Case Study →
 
 <img src="/Portfolio/assets/images/heatmap.png">
 
-<img src="/Portfolio/assets/images/scatterplot.png">
+<img src="/Portfolio/assets/image/image-1.png">
 
 </div>
 
