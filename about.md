@@ -59,5 +59,28 @@ At the moment, I'm expanding my knowledge in:
 I'm especially interested in projects where data can help explain human behaviour or improve decision-making.
 
 ---
+<h2>Let's Build Something Meaningful</h2>
+
+<p>
+
+Whether you'd like to discuss data,
+psychology,
+writing,
+or collaborate on a project,
+I'd love to hear from you.
+
+</p>
+
+<a href="mailto:grcbaro@email.com" class="btn btn--inverse">
+
+Email Me
+</a>
+
+<a href="https://github.com/Dayo-hub700" class="btn btn--primary">
+
+GitHub
+</a>
+
+---
 
 > *"Curiosity led me to data science. Empathy led me to psychology. Writing became the bridge between them. I'm still following that curiosity every day."*
