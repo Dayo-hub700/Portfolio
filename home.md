@@ -351,6 +351,16 @@ Read Latest →
 🐍 Python • 📊 Pandas • 📈 Plotly • 📉 Matplotlib • 🎨 Seaborn • 🗄 SQL
 
 </p>
+<h2>💭 Quote of the Month</h2>
+
+<div class="quote-card">
+
+"Become a thief if you have to. Steal moments and opportunities!!!"
+
+— Grace Baro
+
+</div>
+
 <hr>
 
 <h2>💻 Open Source Activity</h2>
@@ -368,13 +378,3 @@ Visit My GitHub →
 </a>
 
 </p>
-
-<h2>💭 Quote of the Month</h2>
-
-<div class="quote-card">
-
-"Become a thief if you have to. Steal moments and opportunities!!!"
-
-— Grace Baro
-
-</div>
