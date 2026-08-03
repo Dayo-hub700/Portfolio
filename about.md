@@ -55,7 +55,6 @@ At the moment, I'm expanding my knowledge in:
 
 I'm especially interested in projects where data can help explain human behaviour or improve decision-making.
 
----
 <hr>
 
 <div class="contact-section">
