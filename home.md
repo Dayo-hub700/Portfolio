@@ -351,3 +351,20 @@ Read Latest →
 🐍 Python • 📊 Pandas • 📈 Plotly • 📉 Matplotlib • 🎨 Seaborn • 🗄 SQL
 
 </p>
+<hr>
+
+<h2>💻 Open Source Activity</h2>
+
+<p>
+I'm continuously building data science projects, experimenting with new tools and sharing my work on GitHub.
+</p>
+
+<p>
+
+<a href="https://github.com/Dayo-hub700" class="btn btn--primary">
+
+Visit My GitHub →
+
+</a>
+
+</p>
