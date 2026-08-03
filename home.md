@@ -425,36 +425,3 @@ Visit My GitHub →
 </a>
 
 </p>
-<hr>
-
-<div class="site-footer-custom">
-
-<h3>Grace Baro</h3>
-
-<p>
-
-Data Science • Psychology • Writing
-
-</p>
-
-<p>
-
-<a href="/Portfolio/projects/">Projects</a>
-
-•
-
-<a href="/Portfolio/articles/">Articles</a>
-
-•
-
-<a href="/Portfolio/about/">About</a>
-
-</p>
-
-<p>
-
-© 2026 Grace Baro
-
-</p>
-
-</div>
