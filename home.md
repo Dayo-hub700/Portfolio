@@ -5,6 +5,7 @@ author_profile: false
 permalink: /
 classes: wide
 ---
+
 <div class="hero-grid">
 
 <div>
@@ -12,28 +13,21 @@ classes: wide
 <h1>Grace Baro</h1>
 
 <h2>
-Turning curiosity into insight through
-data, psychology and writing.
+Turning curiosity into insight through data, psychology and writing.
 </h2>
 
 <p>
-
-I'm a Computer Science student passionate about uncovering patterns in data and communicating them through thoughtful storytelling.
-
+I'm a Computer Science student passionate about uncovering patterns in data and communicating those insights through thoughtful storytelling.
 </p>
 
 <div class="hero-buttons">
 
 <a href="/Portfolio/projects/" class="btn btn--primary">
-
 Explore Projects
-
 </a>
 
 <a href="/Portfolio/articles/" class="btn btn--inverse">
-
 Read Articles
-
 </a>
 
 </div>
@@ -58,50 +52,19 @@ In both, I'm searching for patterns that help explain the world.
 
 <hr>
 
-<p>
-I enjoy uncovering patterns hidden in data and communicating those insights through thoughtful storytelling.
-</p>
-
-<p>
-As a Computer Science student with a growing interest in <strong>psychology</strong> and <strong>neuroscience</strong>, I'm fascinated by one question:
-</p>
-
-<blockquote>
-<strong>Why do people—and the world around them—behave the way they do?</strong>
-</blockquote>
-
-<div class="hero-buttons">
-
-<a href="/Portfolio/projects/" class="btn btn--primary">📊 Explore Projects</a>
-
-<a href="/Portfolio/articles/" class="btn btn--inverse">✍ Read Articles</a>
-
-</div>
-
-<div class="quote-card">
-
-Curiosity is what led me to data science. Empathy is what led me to psychology. Writing became the bridge between them.
-
-</div>
-
-<hr>
-
 <div class="why-grid">
 
 <div>
 
-<h2>Where Curiosity Meets Analysis</h2>
+<h2>Who I Am</h2>
 
 <p>
-I've always been fascinated by <strong>patterns</strong>.
+I'm fascinated by patterns—whether they're hidden in datasets or human behaviour.
+My work combines data science, psychology and writing to transform information into meaningful stories and practical insights.
 </p>
 
 <p>
-Whether I'm observing human behaviour, exploring psychology, or analysing datasets, I'm driven by curiosity.
-</p>
-
-<p>
-Data science allows me to combine analytical thinking with storytelling to uncover insights that matter.
+I enjoy exploring questions that sit at the intersection of technology and people.
 </p>
 
 </div>
@@ -128,23 +91,90 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 <hr>
 
-<h2>By The Numbers</h2>
+<h2>Featured Project</h2>
 
-<div class="stats-grid">
+<div class="projects-grid">
 
-<div class="stat">
-<h2>2+</h2>
-<p>Data Science Projects</p>
+<div class="project-card">
+
+<img
+src="/Portfolio/assets/image/marvel-media.jpg"
+class="project-image"
+alt="Marvel Multiverse">
+
+<h3>🎬 The Marvel Multiverse</h3>
+
+<p>
+A data-driven exploration of Marvel's cinematic success using exploratory data analysis and interactive visualisations.
+</p>
+
+<div class="tech-stack">
+
+<span>Python</span>
+<span>Pandas</span>
+<span>Plotly</span>
+<span>Seaborn</span>
+
 </div>
 
-<div class="stat">
-<h2>30+</h2>
-<p>Published Essays</p>
+<p><strong>Status:</strong> 🚧 In Progress (85%)</p>
+
+<div class="progress-bar">
+
+<div class="progress-fill" style="width:85%;"></div>
+
 </div>
 
-<div class="stat">
-<h2>5+</h2>
-<p>Technologies Used</p>
+<a href="/Portfolio/projects/" class="btn btn--primary">
+
+View Case Study →
+
+</a>
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>✨ Beyond Data</h2>
+
+<div class="info-grid">
+
+<div class="info-card">
+
+🏃
+
+<h3>Sprinter</h3>
+
+<p>
+Silver medalist who enjoys sprinting and staying active.
+</p>
+
+</div>
+
+<div class="info-card">
+
+🧠
+
+<h3>Psychology</h3>
+
+<p>
+Fascinated by human behaviour, neuroscience and emotional resilience.
+</p>
+
+</div>
+
+<div class="info-card">
+
+✍
+
+<h3>Writer</h3>
+
+<p>
+Publishing essays exploring psychology, personal growth and thoughtful reflection.
+</p>
+
 </div>
 
 </div>
@@ -160,7 +190,7 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 <h3>📊 Data Science</h3>
 
 <p>
-Building practical data science projects with Python, SQL, Plotly, and exploratory data analysis while strengthening my statistical thinking.
+Building practical projects with Python, SQL, Plotly and statistical analysis.
 </p>
 
 </div>
@@ -170,17 +200,17 @@ Building practical data science projects with Python, SQL, Plotly, and explorato
 <h3>🧠 Psychology & Neuroscience</h3>
 
 <p>
-  Exploring human behaviour, cognition, emotional resilience, and the neuroscience behind how people think, learn, and make decisions.
+Exploring cognition, emotional resilience and decision-making.
 </p>
 
 </div>
 
 <div class="focus-card">
 
-<h3>✍️ Writing</h3>
+<h3>✍ Writing</h3>
 
 <p>
-Publishing essays through Haven Letters that connect psychology, neuroscience, and personal growth with thoughtful storytelling.
+Publishing essays through Haven Letters that connect psychology with everyday life.
 </p>
 
 </div>
@@ -189,109 +219,22 @@ Publishing essays through Haven Letters that connect psychology, neuroscience, a
 
 <hr>
 
-<h2>Featured Project</h2>
-
-<div class="projects-grid">
-
-<div class="project-card">
-
-<img
-src="/Portfolio/assets/image/marvel-media.jpg"
-alt="Marvel Multiverse Project"
-class="project-image">
-
-<h3>🎬 The Marvel Multiverse</h3>
-
-<p>
-A data-driven exploration of Marvel's cinematic success using interactive visualisations and exploratory data analysis.
-</p>
-
-<div class="tech-stack">
-
-<span>Python</span>
-
-<span>Pandas</span>
-
-<span>Plotly</span>
-
-<span>Seaborn</span>
-
-</div>
-
-<a href="/Portfolio/projects/" class="btn btn--primary">
-
-View Case Study →
-
-</a>
-
-</div>
-<h2>✨ Beyond Data</h2>
-
-<div class="info-grid">
-
-<div class="info-card">
-
-🏃
-
-<h3>Sprinter</h3>
-
-<p>
-
-Silver medalist who enjoys sprinting and staying active.
-
-</p>
-
-</div>
-
-<div class="info-card">
-
-🧠
-
-<h3>Psychology</h3>
-
-<p>
-
-Fascinated by human behaviour, neuroscience and emotional resilience.
-
-</p>
-
-</div>
-
-<div class="info-card">
-
-✍
-
-<h3>Writer</h3>
-
-<p>
-
-Publishing essays exploring psychology, personal growth and thoughtful reflection.
-
-</p>
-
-</div>
-
-</div>
+<h2>Latest Writing</h2>
 
 <div class="article-card">
 
 <img
 src="/Portfolio/assets/image/IMG_2266.JPG"
-class="article-image">
+class="article-image"
+alt="Haven Letters">
 
 <h3>🧠 Haven Letters</h3>
 
 <p>
-
-Exploring psychology, neuroscience and emotional resilience.
-
+Exploring psychology, neuroscience and emotional resilience through thoughtful essays.
 </p>
 
-<p>
-
-<strong>5 min read</strong>
-
-</p>
+<p><strong>5 min read</strong></p>
 
 <a href="/Portfolio/articles/" class="btn btn--inverse">
 
@@ -301,109 +244,15 @@ Read →
 
 </div>
 
-<h2>🚧 Currently Building</h2>
-
-<div class="dashboard-card">
-
-<h3>🎬 The Marvel Multiverse</h3>
-
-<p>
-Building an interactive case study exploring the factors that influence the commercial and critical success of Marvel productions.
-</p>
-<div id="progress-bar"></div>
-
-<div class="progress-bar">
-
-<div class="progress-fill" style="width:85%;"></div>
-
-</div>
-
-<p><strong>Progress:</strong> 85%</p>
-
-</div>
-
-<h2>📚 Currently Learning</h2>
-
-<div class="learning-grid">
-
-<div class="learning-card">
-
-✔ Plotly Dash
-
-</div>
-
-<div class="learning-card">
-
-✔ SQL Optimization
-
-</div>
-
-<div class="learning-card">
-
-✔ Machine Learning
-
-</div>
-
-<div class="learning-card">
-
-✔ Statistical Thinking
-
-</div>
-
-</div>
-
-<h2>🧠 Current Interests</h2>
-
-<div class="interest-grid">
-
-<span>Behavioural Psychology</span>
-
-<span>Neuroscience</span>
-
-<span>Data Storytelling</span>
-
-<span>Machine Learning</span>
-
-<span>Research Methods</span>
-
-<span>Human Decision Making</span>
-
-</div>
-
-<hr>
-<h2>✍ Latest Publication</h2>
-
-<div class="dashboard-card">
-
-<h3>Haven Letters</h3>
-
-<p>
-
-Exploring psychology, neuroscience and emotional resilience through thoughtful essays.
-
-</p>
-
-<a href="/Portfolio/articles/" class="btn btn--primary">
-
-Read Latest →
-
-</a>
-
-</div>
 <hr>
 
-<h2>My Toolbox</h2>
-
-<p>
-
-🐍 Python • 📊 Pandas • 📈 Plotly • 📉 Matplotlib • 🎨 Seaborn • 🗄 SQL
-
-</p>
 <h2>💭 Quote of the Month</h2>
 
 <div class="quote-card">
 
-"Become a thief if you have to. Steal moments and opportunities!!!"
+"Become a thief if you have to. Steal moments and opportunities."
+
+<br><br>
 
 — Grace Baro
 
