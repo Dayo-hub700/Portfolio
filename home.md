@@ -219,10 +219,12 @@ A data-driven exploration of Marvel's cinematic success using interactive visual
 </div>
 
 <a href="/Portfolio/projects/" class="btn btn--primary">
-</a>
+
 
 
 View Case Study →
+</a>
+</div>
 <h2>📷 Project Gallery</h2>
 
 <div class="gallery-grid">
@@ -231,7 +233,7 @@ View Case Study →
 
 <img src="/Portfolio/assets/image/image-1.png">
 
-</div>
+
 
 </div>
 <div class="article-card">
