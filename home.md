@@ -14,7 +14,7 @@ classes: wide
 
 <a href="/Portfolio/about/" class="hero-name">
 
-Grace Baro →
+Grace Baro
 
 </a>
 
