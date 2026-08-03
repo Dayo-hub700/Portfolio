@@ -711,7 +711,64 @@ transition:.35s;
 transform:scale(1.03);
 
 }
+.article-card{
 
+background:white;
+
+border-radius:20px;
+
+overflow:hidden;
+
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+transition:.35s;
+
+}
+
+.article-card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.article-image{
+
+width:100%;
+
+height:220px;
+
+object-fit:cover;
+
+}
+.gallery-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+gap:20px;
+
+margin:40px 0;
+
+}
+
+.gallery-grid img{
+
+width:100%;
+
+border-radius:15px;
+
+transition:.35s;
+
+cursor:pointer;
+
+}
+
+.gallery-grid img:hover{
+
+transform:scale(1.04);
+
+}
 /* ===========================
    TEXT SELECTION
 =========================== */
