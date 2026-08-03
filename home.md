@@ -221,6 +221,15 @@ A data-driven exploration of Marvel's cinematic success using interactive visual
 <a href="/Portfolio/projects/" class="btn btn--primary">
 
 View Case Study →
+<h2>📷 Project Gallery</h2>
+
+<div class="gallery-grid">
+
+<img src="/Portfolio/assets/images/heatmap.png">
+
+<img src="/Portfolio/assets/images/scatterplot.png">
+
+</div>
 
 </a>
 
