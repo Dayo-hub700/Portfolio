@@ -58,34 +58,6 @@ At the moment, I'm expanding my knowledge in:
 
 I'm especially interested in projects where data can help explain human behaviour or improve decision-making.
 
-<div class="timeline">
-
-<div class="timeline-item">
-
-<h3>2024</h3>
-
-<p>Started studying Computer Science.</p>
-
-</div>
-
-<div class="timeline-item">
-
-<h3>2025</h3>
-
-<p>Delved into psychology.</p>
-
-</div>
-
-<div class="timeline-item">
-
-<h3>2026</h3>
-
-<p>Started taking Data Science courses and publishing projects.</p>
-
-</div>
-
-</div>
-
 ---
 
 > *"Curiosity led me to data science. Empathy led me to psychology. Writing became the bridge between them. I'm still following that curiosity every day."*
