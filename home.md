@@ -10,7 +10,15 @@ classes: wide
 
 <div>
 
-<h1>Grace Baro</h1>
+<h1>
+
+<a href="/Portfolio/about/" class="hero-name">
+
+Grace Baro →
+
+</a>
+
+</h1>
 
 <h2>
 Turning curiosity into insight through data, psychology and writing.
