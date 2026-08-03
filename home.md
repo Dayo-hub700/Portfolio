@@ -310,6 +310,7 @@ Read →
 <p>
 Building an interactive case study exploring the factors that influence the commercial and critical success of Marvel productions.
 </p>
+<div id="progress-bar"></div>
 
 <div class="progress-bar">
 
