@@ -368,3 +368,13 @@ Visit My GitHub →
 </a>
 
 </p>
+
+<h2>💭 Quote of the Month</h2>
+
+<div class="quote-card">
+
+"Become a thief if you have to. Steal moments and opportunities!!!"
+
+— Grace Baro
+
+</div>
