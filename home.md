@@ -228,7 +228,7 @@ View Case Study →
 <div class="article-card">
 
 <img
-src="/Portfolio/assets/images/havenletters.png"
+src="/Portfolio/assets/image/IMG_2266.JPG"
 class="article-image">
 
 <h3>🧠 Haven Letters</h3>
