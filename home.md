@@ -225,7 +225,7 @@ View Case Study →
 
 <div class="gallery-grid">
 
-<img src="/Portfolio/assets/images/heatmap.png">
+<img src="/Portfolio/assets/image/image-4.png">
 
 <img src="/Portfolio/assets/image/image-1.png">
 
