@@ -225,6 +225,53 @@ View Case Study →
 </a>
 
 </div>
+<h2>✨ Beyond Data</h2>
+
+<div class="info-grid">
+
+<div class="info-card">
+
+🏃
+
+<h3>Sprinter</h3>
+
+<p>
+
+Silver medalist who enjoys sprinting and staying active.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+🧠
+
+<h3>Psychology</h3>
+
+<p>
+
+Fascinated by human behaviour, neuroscience and emotional resilience.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+✍
+
+<h3>Writer</h3>
+
+<p>
+
+Publishing essays exploring psychology, personal growth and thoughtful reflection.
+
+</p>
+
+</div>
+
+</div>
 
 <div class="article-card">
 
