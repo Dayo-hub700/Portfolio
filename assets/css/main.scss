@@ -180,7 +180,37 @@ hr {
   padding: 12px 28px;
   border-radius: 999px;
 }
+.hero-name{
 
+color:#222;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+.hero-name:hover{
+
+color:#DA70D6;
+
+}
+
+.hero-name::after{
+
+content:" ↗";
+
+opacity:0;
+
+transition:.3s;
+
+}
+
+.hero-name:hover::after{
+
+opacity:1;
+
+}
 /* ==================================================
    QUOTE
 ================================================== */
