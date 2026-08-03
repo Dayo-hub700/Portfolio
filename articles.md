@@ -62,7 +62,9 @@ Some of the themes explored in **Haven Letters** include:
 ## Read Haven Letters
 
 📖 **Read the full publication on Substack:**  
-https://solacehaven.substack.com/
+<a href= "https://solacehaven.substack.com/" class= "btn btn--inverse">
+Haven Letters
+</a>
 
 Explore the complete archive for essays on psychology, neuroscience, emotional well-being, and personal growth.
 
