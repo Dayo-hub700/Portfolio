@@ -1,4 +1,3 @@
-console.log("Main JS loaded!");
 document.addEventListener("DOMContentLoaded", () => {
 
 const observer = new IntersectionObserver((entries) => {
