@@ -21,7 +21,11 @@ Grace Baro
 </h1>
 
 <h2>
-Turning curiosity into insight through data, psychology and writing.
+
+<span id="typing-text"></span>
+
+<span class="cursor">|</span>
+
 </h2>
 
 <p>
