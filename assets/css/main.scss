@@ -620,3 +620,29 @@ display:inline-block;
 min-width:70px;
 
 }
+
+/* ===========================
+   TYPEWRITER
+=========================== */
+
+.cursor{
+
+display:inline-block;
+
+color:#DA70D6;
+
+font-weight:bold;
+
+animation:blink .8s infinite;
+
+}
+
+@keyframes blink{
+
+50%{
+
+opacity:0;
+
+}
+
+}
