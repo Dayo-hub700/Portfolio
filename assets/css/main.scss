@@ -101,9 +101,24 @@ hr {
   transition: .3s ease;
 }
 
-.btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 30px rgba(218,112,214,.35);
+.btn{
+
+transition:
+
+transform .25s ease,
+
+box-shadow .25s ease,
+
+background-color .25s ease;
+
+}
+
+.btn:hover{
+
+transform:translateY(-4px) scale(1.03);
+
+box-shadow:0 15px 35px rgba(218,112,214,.30);
+
 }
 
 .btn--primary {
@@ -167,8 +182,22 @@ hr {
   transition: .35s;
 }
 
-.hero-image img:hover {
-  transform: scale(1.03);
+.hero-image img{
+
+transition:
+
+transform .4s ease,
+
+box-shadow .4s ease;
+
+}
+
+.hero-image img:hover{
+
+transform:scale(1.05) rotate(2deg);
+
+box-shadow:0 30px 60px rgba(218,112,214,.25);
+
 }
 
 .hero-buttons {
@@ -549,3 +578,38 @@ box-shadow:0 12px 30px rgba(0,0,0,.2);
 cursor:pointer;
 
 }
+
+/* ===========================
+   SCROLL ANIMATIONS
+=========================== */
+
+.project-card,
+.focus-card,
+.skill-card,
+.stat,
+.quote-card,
+.dashboard-card,
+.info-card,
+.article-card{
+
+opacity:0;
+
+transform:translateY(35px);
+
+transition:
+
+opacity .7s ease,
+
+transform .7s ease;
+
+}
+
+.show{
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+
