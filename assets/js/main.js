@@ -1,3 +1,4 @@
+console.log("Main JS loaded!");
 document.addEventListener("DOMContentLoaded", () => {
 
 const observer = new IntersectionObserver((entries) => {
@@ -122,7 +123,28 @@ phraseIndex=(phraseIndex+1)%phrases.length;
 }
 
 setTimeout(typeEffect,deleting?35:55);
+  
 
 }
 
 window.addEventListener("load",typeEffect);
+
+const typingElement = document.getElementById("typing-text");
+
+let index = 0;
+
+function type(){
+
+if(index < text.length){
+
+typingElement.textContent += text.charAt(index);
+
+index++;
+
+setTimeout(type,40);
+
+}
+
+}
+
+window.addEventListener("load",type);
