@@ -69,26 +69,60 @@ counterObserver.unobserve(counter);
 
 });
 
-counters.forEach(counter=>counterObserver.observe(counter));
+const phrases = [
 
-const text = "Turning curiosity into insight through data, psychology and writing.";
+"Turning curiosity into insight.",
+
+"Exploring data with purpose.",
+
+"Studying psychology and neuroscience.",
+
+"Transforming data into stories."
+
+];
 
 const typingElement = document.getElementById("typing-text");
 
-let index = 0;
+let phraseIndex = 0;
 
-function type(){
+let letterIndex = 0;
 
-if(index < text.length){
+let deleting = false;
 
-typingElement.textContent += text.charAt(index);
+function typeEffect(){
 
-index++;
+const current = phrases[phraseIndex];
 
-setTimeout(type,40);
+if(!deleting){
+
+typingElement.textContent = current.substring(0,letterIndex++);
+
+if(letterIndex > current.length){
+
+deleting = true;
+
+setTimeout(typeEffect,1800);
+
+return;
+
+}
+
+}else{
+
+typingElement.textContent = current.substring(0,--letterIndex);
+
+if(letterIndex===0){
+
+deleting=false;
+
+phraseIndex=(phraseIndex+1)%phrases.length;
 
 }
 
 }
 
-window.addEventListener("load",type);
+setTimeout(typeEffect,deleting?35:55);
+
+}
+
+window.addEventListener("load",typeEffect);
