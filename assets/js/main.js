@@ -70,3 +70,25 @@ counterObserver.unobserve(counter);
 });
 
 counters.forEach(counter=>counterObserver.observe(counter));
+
+const text = "Turning curiosity into insight through data, psychology and writing.";
+
+const typingElement = document.getElementById("typing-text");
+
+let index = 0;
+
+function type(){
+
+if(index < text.length){
+
+typingElement.textContent += text.charAt(index);
+
+index++;
+
+setTimeout(type,40);
+
+}
+
+}
+
+window.addEventListener("load",type);
