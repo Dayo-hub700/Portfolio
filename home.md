@@ -4,6 +4,12 @@ title: Grace Baro
 author_profile: false
 permalink: /
 classes: wide
+
+excerpt: >
+   Get an overview of Grace Baro,
+   her journey,
+   and her interests.
+   
 ---
 
 <div class="hero-grid">
