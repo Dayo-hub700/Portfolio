@@ -287,25 +287,3 @@ Visit My GitHub →
 </a>
 
 </p>
-<div class="stat">
-
-<h2 class="counter" data-target="2">0</h2>
-
-<p>Data Science Projects</p>
-
-</div>
-<div class="stat">
-
-<h2 class="counter" data-target="30">0</h2>
-
-<p>Published Essays</p>
-
-</div>
-<div class="stat">
-
-<h2 class="counter" data-target="5">0</h2>
-
-<p>Technologies Used</p>
-
-</div>
-
