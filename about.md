@@ -14,7 +14,7 @@ Outside of programming, I enjoy journaling. What started as a way to preserve mo
 
 ---
 
-## My Journey into Data Science
+## My Transition into Data Science
 
 As a Computer Science student at **Caleb University**, I began learning programming with the goal of solving problems through technology.
 
@@ -40,7 +40,6 @@ Through **Haven Letters**, I explore topics like emotional resilience, self-awar
 
 Writing has taught me that communicating an idea clearly can be just as valuable as discovering it.
 
----
 <hr>
 
 <h2>My Journey</h2>
