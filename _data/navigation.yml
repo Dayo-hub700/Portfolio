@@ -1,18 +1,18 @@
 main:
-  - title: Home
+  - title: "Home"
     url: /
 
-  - title: About
+  - title: "About"
     url: /about/
 
-  - title: Projects
+  - title: "Projects"
     url: /projects/
 
-  - title: Articles
+  - title: "Articles"
     url: /articles/
 
-  - title: Contact
+  - title: "Now"
+    url: /now/
+
+  - title: "Contact"
     url: /contact/
-    
-  - title: Now
-  url: /now/
