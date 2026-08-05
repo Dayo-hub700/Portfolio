@@ -2,6 +2,10 @@
 layout: single
 title: Now
 permalink: /now/
+
+excerpt: >
+ Flow with Grace in her journey in life.
+ 
 ---
 
 # What I'm Working On
