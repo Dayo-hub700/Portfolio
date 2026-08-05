@@ -2,6 +2,11 @@
 layout: single
 title: Contact
 permalink: /contact/
+
+excerpt: >
+  Reach out to Grace Baro via email,
+  github or substack.
+  
 ---
 
 # Let's Build Something Meaningful
