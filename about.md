@@ -2,7 +2,13 @@
 layout: single
 title: About
 permalink: /about/
+
+excerpt: >
+  Learn more about Grace Baro,
+  her journey into data science,
+  psychology and writing.
 ---
+
 
 <h1>About Me</h1>
 I am a Computer Science student at **Caleb University, Imota**, building a foundation in data science with Python and SQL.
