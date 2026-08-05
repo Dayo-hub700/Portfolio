@@ -1,15 +1,60 @@
-# Website Settings
+# -----------------------------
+# Site Information
+# -----------------------------
 title: Grace Baro
-description: Data Science & Research Portfolio
+name: Grace Baro
+
+description: >
+  Data Science Portfolio exploring Python,
+  SQL, data visualization, psychology,
+  neuroscience, and thoughtful storytelling.
+
 author: Grace Baro
 
+url: "https://dayo-hub700.github.io"
+baseurl: "/Portfolio"
+
+repository: Dayo-hub700/Portfolio
+
+# -----------------------------
 # Theme
+# -----------------------------
 remote_theme: mmistakes/minimal-mistakes
 
-# Social Links
+# -----------------------------
+# Author
+# -----------------------------
+author:
+  name: Grace Baro
+  avatar: "/assets/image/profile.jpeg"
+  bio: >
+    Computer Science student passionate about
+    data science, psychology, neuroscience,
+    and technical writing.
+
+  location: Nigeria
+
+  github: Dayo-hub700
+
+# -----------------------------
+# Logo & Social Preview
+# -----------------------------
+logo: "/assets/image/logg.png"
+
+social:
+  type: Person
+  name: Grace Baro
+  links:
+    - https://github.com/Dayo-hub700
+
+# -----------------------------
+# Social
+# -----------------------------
 github_username: Dayo-hub700
 
-# Build Settings
+# -----------------------------
+# Build
+# -----------------------------
 markdown: kramdown
 
 plugins:
@@ -17,14 +62,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Site Settings
+# -----------------------------
+# Settings
+# -----------------------------
 locale: en-US
 timezone: Africa/Lagos
 
-name: Grace Baro
 search: true
 breadcrumbs: true
 
 permalink: /:categories/:title/
-
-repository: Dayo-hub700/Portfolio
