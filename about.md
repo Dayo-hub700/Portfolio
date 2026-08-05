@@ -41,8 +41,79 @@ Through **Haven Letters**, I explore topics like emotional resilience, self-awar
 Writing has taught me that communicating an idea clearly can be just as valuable as discovering it.
 
 ---
+<hr>
 
-## What I'm Currently Learning
+<h2>My Journey</h2>
+
+<div class="timeline">
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>🌱 Curiosity</h3>
+
+<p>
+Long before programming, I was fascinated by human behaviour, constantly asking why people think and act the way they do.
+</p>
+
+</div>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>💻 Computer Science</h3>
+
+<p>
+Studying Computer Science introduced me to programming and showed me how technology can solve meaningful problems.
+</p>
+
+</div>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>📊 Data Science</h3>
+
+<p>
+I discovered data science as a way to uncover patterns, answer questions, and communicate insights through data.
+</p>
+
+</div>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>🧠 Looking Ahead</h3>
+
+<p>
+My long-term vision is to combine data science, psychology, and research to better understand human behaviour and contribute to mental well-being.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<h2> What I'm Currently Learning</h2>
 
 At the moment, I'm expanding my knowledge in:
 
@@ -54,34 +125,6 @@ At the moment, I'm expanding my knowledge in:
 </ul>
 
 I'm especially interested in projects where data can help explain human behaviour or improve decision-making.
-
-<hr>
-
-<div class="contact-section">
-
-<h2>Let's Build Something Meaningful</h2>
-
-<p>
-Whether you'd like to discuss data science,
-psychology,
-writing,
-or collaborate on a project,
-I'd love to hear from you.
-</p>
-
-<p>
-
-<a href="mailto:grcbaro@gmail.com" class="btn btn--inverse">
-Email Me
-</a>
-
-<a href="https://github.com/Dayo-hub700" class="btn btn--primary">
-GitHub
-</a>
-
-</p>
-
-</div>
 
 <hr>
 
