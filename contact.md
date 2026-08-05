@@ -12,7 +12,7 @@ Whether you'd like to discuss data science, psychology, writing, or a potential 
 
 <div class="contact-card">
 
-## 📧 Email
+<h2> 📧 Email </h2>
 
 The best way to reach me.
 
@@ -24,7 +24,7 @@ Email Me
 
 <div class="contact-card">
 
-## 💻 GitHub
+<h2> 💻 GitHub </h2>
 
 Explore my projects and code.
 
@@ -36,7 +36,7 @@ Visit GitHub
 
 <div class="contact-card">
 
-## ✍️ Haven Letters
+<h2> ✍️ Haven Letters </h2>
 
 Read my essays on psychology, neuroscience, and personal growth.
 
