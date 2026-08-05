@@ -2,6 +2,10 @@
 layout: single
 title: Articles
 permalink: /articles/
+
+excerpt: > 
+  Know about the Haven Letters Publication.
+  
 ---
 
 # Haven Letters
