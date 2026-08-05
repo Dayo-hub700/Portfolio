@@ -69,6 +69,7 @@ locale: en-US
 timezone: Africa/Lagos
 
 search: true
+search_full_content: true
 breadcrumbs: true
 
 permalink: /:categories/:title/
