@@ -72,4 +72,10 @@ search: true
 search_full_content: true
 breadcrumbs: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FXRC8BHSBZ"
+    anonymize_ip: true
+
 permalink: /:categories/:title/
