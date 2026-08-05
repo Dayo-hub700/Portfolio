@@ -825,6 +825,40 @@ color:#DA70D6;
 }
 
 /* ===========================
+   GITHUB
+=========================== */
+
+.github-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+
+gap:30px;
+
+margin:40px 0;
+
+}
+
+.github-grid img{
+
+width:100%;
+
+border-radius:18px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+transition:.35s;
+
+}
+
+.github-grid img:hover{
+
+transform:translateY(-8px);
+
+}
+
+/* ===========================
    DARK MODE
 =========================== */
 
