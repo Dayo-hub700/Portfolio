@@ -708,3 +708,95 @@ margin-bottom:20px;
 margin-top:20px;
 
 }
+
+/* ===========================
+   DARK MODE
+=========================== */
+
+.theme-toggle{
+
+position:fixed;
+
+bottom:30px;
+
+right:30px;
+
+width:55px;
+
+height:55px;
+
+border:none;
+
+border-radius:50%;
+
+background:#DA70D6;
+
+color:white;
+
+font-size:1.3rem;
+
+cursor:pointer;
+
+box-shadow:0 12px 30px rgba(0,0,0,.2);
+
+z-index:9999;
+
+transition:.3s;
+
+}
+
+.theme-toggle:hover{
+
+transform:scale(1.08);
+
+}
+
+.dark-mode{
+
+background:#181818;
+
+color:#ECECEC;
+
+transition:.35s;
+
+}
+
+.dark-mode .page__content{
+
+color:#ECECEC;
+
+}
+
+.dark-mode .project-card,
+
+.dark-mode .focus-card,
+
+.dark-mode .info-card,
+
+.dark-mode .dashboard-card,
+
+.dark-mode .contact-card,
+
+.dark-mode .article-card,
+
+.dark-mode .stat{
+
+background:#262626;
+
+color:white;
+
+}
+
+.dark-mode .quote-card{
+
+background:#2B2230;
+
+border-left:5px solid #DA70D6;
+
+}
+
+.dark-mode a{
+
+color:#F2A8EC;
+
+}
