@@ -2,6 +2,10 @@
 layout: single
 title: Projects
 permalink: /projects/
+
+excerpt: >
+    Unravel projects old and new with Grace Baro.
+    
 ---
 
 # Data Science Projects
