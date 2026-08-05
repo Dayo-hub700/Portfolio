@@ -286,17 +286,3 @@ Visit My GitHub →
 
 </a>
 </p>
-
-<h2>💻 GitHub Activity</h2>
-
-<div class="github-grid">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Dayo-hub700&show_icons=true&theme=default&hide_border=true"
-alt="GitHub Stats">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayo-hub700&layout=compact&hide_border=true"
-alt="Top Languages">
-
-</div>
